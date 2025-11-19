@@ -1,3 +1,7 @@
 eggs
 ketchup
+milk
+cereal
+brown sugar
+
 
